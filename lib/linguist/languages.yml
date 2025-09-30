@@ -7340,6 +7340,7 @@ Starlark:
   codemirror_mime_type: text/x-python
   color: "#76d275"
   extensions:
+  - ".axl"
   - ".bzl"
   - ".star"
   filenames:
